@@ -237,22 +237,22 @@
                             <?= $this->Html->link('Dashboard',['action' => 'index'],['class' => 'fa fa-table fa-fw']) ?>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Charts<span class="fa arrow"></span></a>
+							<?= $this->Html->link('Charts',['action' => ''],['class' => 'fa fa-bar-chart-o fa-fw']) ?>						
                             <ul class="nav nav-second-level">
                                 <li>
-                                    <a href="flot.html">Flot Charts</a>
+									<?= $this->Html->link('Flot Charts',['action' => 'flot']) ?>                        
                                 </li>
                                 <li>
-                                    <a href="morris.html">Morris.js Charts</a>
+									<?= $this->Html->link('Morris.js Charts',['action' => '']) ?>
                                 </li>
                             </ul>
                             <!-- /.nav-second-level -->
                         </li>
                         <li>
-                            <a href="tables.html"><i class="fa fa-table fa-fw"></i> Tables</a>
+							<?= $this->Html->link('Tables',['action' => ''],['class' => 'fa fa-table fa-fw']) ?>
                         </li>
                         <li>
-                            <a href="forms.html"><i class="fa fa-edit fa-fw"></i> Forms</a>
+							<?= $this->Html->link('Forms',['action' => ''],['class' => 'fa fa-table fa-fw']) ?>
                         </li>
                         <li>
                             <a href="#"><i class="fa fa-wrench fa-fw"></i> UI Elements<span class="fa arrow"></span></a>

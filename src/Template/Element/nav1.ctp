@@ -10,7 +10,7 @@
 			<?= $this->Html->link('Admin',['controller' => 'Admin','action' => 'index']) ?>
             </li>
             <li class="nav-item">
-			<?= $this->Html->link('Home',['action' => 'index']) ?>
+			<?= $this->Html->link('Home',['action' => '']) ?>
             </li>
             <li class="nav-item">
 			<?= $this->Html->link('About',['action' => 'about']) ?>

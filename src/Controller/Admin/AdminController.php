@@ -15,5 +15,13 @@ class AdminController  extends AppController
     {
         
     }
+	public function flot()
+    {
+        
+    }
+	public function morris()
+    {
+        
+    }
 }
 ?>

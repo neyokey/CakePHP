@@ -76,14 +76,11 @@ Router::scope('/', function (RouteBuilder $routes) {
 	
 	$routes->fallbacks(DashedRoute::class);
 });
-Router::scope('/Pages', function ($routes) {
-		$routes->connect('/index', ['controller' => 'Pages', 'action' => 'index']);
-		$routes->connect('/about' ,['controller' => 'Pages', 'action' => 'about']);
-		$routes->connect('/contact' ,['controller' => 'Pages', 'action' => 'contact']);
-		$routes->connect('/sample' , ['controller' => 'Pages','action' => 'sample']);
-	});
+
 Router::prefix('Admin', function ($routes) {
 		$routes->connect('/', ['controller' => 'Admin', 'action' => 'index']);
+		$routes->connect('/flot', ['controller' => 'Admin', 'action' => 'flot']);
+
 	});
 
 /**
