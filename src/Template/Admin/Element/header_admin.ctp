@@ -4,18 +4,18 @@
     <meta name="description" content="">
     <meta name="author" content="">
 	
-	<?= $this->Html->css('metisMenu.min.css') ?>
-	<?= $this->Html->css('sb-admin-2.css') ?>
-	<?= $this->Html->css('bootstrap.min.css') ?>
-	<?= $this->Html->css('font-awesome.min.css') ?>
-	<?= $this->Html->css('morris.css') ?>
-	<?= $this->Html->script('jquery.min.js') ?>
-	<?= $this->Html->script('bootstrap.min.js') ?>
-	<?= $this->Html->script('metisMenu.min.js') ?>
-	<?= $this->Html->script('raphael.min.js') ?>	
-	<?= $this->Html->script('morris.min.js') ?>
-	<?= $this->Html->script('morris-data.js') ?>
-  	<?= $this->Html->script('sb-admin-2.js') ?>
+	<?= $this->Html->css('admin/metisMenu.min.css') ?>
+	<?= $this->Html->css('admin/sb-admin-2.css') ?>
+	<?= $this->Html->css('admin/bootstrap.min.css') ?>
+	<?= $this->Html->css('admin/font-awesome.min.css') ?>
+	<?= $this->Html->css('admin/morris.css') ?>
+	<?= $this->Html->script('admin/jquery.min.js') ?>
+	<?= $this->Html->script('admin/bootstrap.min.js') ?>
+	<?= $this->Html->script('admin/metisMenu.min.js') ?>
+	<?= $this->Html->script('admin/raphael.min.js') ?>	
+	<?= $this->Html->script('admin/morris.min.js') ?>
+	<?= $this->Html->script('admin/morris-data.js') ?>
+  	<?= $this->Html->script('admin/sb-admin-2.js') ?>
 
     <title>SB Admin 2 - Bootstrap Admin Theme</title>
 
