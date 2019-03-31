@@ -1,0 +1,323 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-07-04 16:45+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Template/Element/kind_news.ctp:1
+msgid "-Kind"
+msgstr ""
+
+#: Template/Element/monan.ctp:39
+msgid "Price:"
+msgstr ""
+
+#: Template/Element/monan.ctp:40
+msgid "Add cart"
+msgstr ""
+
+#: Template/Home/about.ctp:5
+msgid "A Few Words"
+msgstr ""
+
+#: Template/Home/bill.ctp:5
+msgid "Bill"
+msgstr ""
+
+#: Template/Home/bill.ctp:18
+#: Template/Home/detail.ctp:18
+msgid "Receiver"
+msgstr ""
+
+#: Template/Home/bill.ctp:21;58
+#: Template/Home/detail.ctp:21;58
+msgid "Name"
+msgstr ""
+
+#: Template/Home/bill.ctp:24
+#: Template/Home/detail.ctp:24
+msgid "Phone"
+msgstr ""
+
+#: Template/Home/bill.ctp:27
+#: Template/Home/detail.ctp:27
+msgid "Address"
+msgstr ""
+
+#: Template/Home/bill.ctp:55
+#: Template/Home/detail.ctp:55
+msgid "Dish"
+msgstr ""
+
+#: Template/Home/bill.ctp:61
+#: Template/Home/detail.ctp:61
+msgid "Quantity"
+msgstr ""
+
+#: Template/Home/bill.ctp:64;105
+#: Template/Home/detail.ctp:64;105
+#: Template/Home/orders.ctp:23
+msgid "Price"
+msgstr ""
+
+#: Template/Home/bill.ctp:102
+#: Template/Home/detail.ctp:102
+#: Template/Home/orders.ctp:84
+msgid "Sum"
+msgstr ""
+
+#: Template/Home/bill.ctp:108
+#: Template/Home/detail.ctp:108
+msgid "Ship price"
+msgstr ""
+
+#: Template/Home/bill.ctp:111
+#: Template/Home/detail.ctp:111
+msgid "Discount"
+msgstr ""
+
+#: Template/Home/bill.ctp:114
+#: Template/Home/detail.ctp:114
+msgid "Pay price"
+msgstr ""
+
+#: Template/Home/bill.ctp:141
+msgid "You have no order"
+msgstr ""
+
+#: Template/Home/bill.ctp:145
+#: Template/Home/detail.ctp:145
+#: Template/Home/news.ctp:48
+msgid " Back"
+msgstr ""
+
+#: Template/Home/cart.ctp:5
+msgid "Giỏ hàng"
+msgstr ""
+
+#: Template/Home/cart.ctp:52
+#: Template/Home/info.ctp:34
+#: Template/Home/useredit.ctp:33
+msgid "Edit"
+msgstr ""
+
+#: Template/Home/cart.ctp:59
+msgid "Delete"
+msgstr ""
+
+#: Template/Home/cart.ctp:117
+msgid "Order"
+msgstr ""
+
+#: Template/Home/contact.ctp:3
+msgid "Our Contacts"
+msgstr ""
+
+#: Template/Home/contact.ctp:14
+msgid "Contacts Form"
+msgstr ""
+
+#: Template/Home/contact.ctp:19
+#: Template/Home/login.ctp:32
+msgid "Your Name:"
+msgstr ""
+
+#: Template/Home/contact.ctp:23
+#: Template/Home/login.ctp:11;37
+msgid "Your E-mail:"
+msgstr ""
+
+#: Template/Home/contact.ctp:29
+msgid "Subject:"
+msgstr ""
+
+#: Template/Home/contact.ctp:33
+msgid "Message:"
+msgstr ""
+
+#: Template/Home/contact.ctp:40
+msgid "Send"
+msgstr ""
+
+#: Template/Home/contact.ctp:46
+msgid "Contacts Information"
+msgstr ""
+
+#: Template/Home/contact.ctp:49
+#: Template/Home/info.ctp:29
+#: Template/Home/useredit.ctp:29
+msgid "Address:"
+msgstr ""
+
+#: Template/Home/contact.ctp:50
+msgid "Telphone:"
+msgstr ""
+
+#: Template/Home/contact.ctp:51
+msgid "E-mail:"
+msgstr ""
+
+#: Template/Home/detail.ctp:5
+msgid "Detail order"
+msgstr ""
+
+#: Template/Home/detail_news.ctp:13
+#: Template/Home/news.ctp:13
+msgid "Post date: "
+msgstr ""
+
+#: Template/Home/detail_news.ctp:13
+#: Template/Home/news.ctp:13
+msgid "| By: "
+msgstr ""
+
+#: Template/Home/detail_news.ctp:13
+#: Template/Home/news.ctp:13
+msgid "<br> Type: "
+msgstr ""
+
+#: Template/Home/detail_news.ctp:42
+msgid "News not exist!"
+msgstr ""
+
+#: Template/Home/detail_news.ctp:51
+#: Template/Home/orders.ctp:107
+msgid "Back"
+msgstr ""
+
+#: Template/Home/info.ctp:5
+msgid "Account information"
+msgstr ""
+
+#: Template/Home/info.ctp:8
+#: Template/Home/useredit.ctp:8
+msgid "Your infomation"
+msgstr ""
+
+#: Template/Home/info.ctp:13
+#: Template/Home/useredit.ctp:13
+msgid "Name:"
+msgstr ""
+
+#: Template/Home/info.ctp:17
+#: Template/Home/useredit.ctp:17
+msgid "Email:"
+msgstr ""
+
+#: Template/Home/info.ctp:21
+#: Template/Home/useredit.ctp:21
+msgid "Phone:"
+msgstr ""
+
+#: Template/Home/info.ctp:25
+#: Template/Home/useredit.ctp:25
+msgid "Birthday:"
+msgstr ""
+
+#: Template/Home/info.ctp:39
+msgid "Account infomation"
+msgstr ""
+
+#: Template/Home/info.ctp:44
+msgid "Point:"
+msgstr ""
+
+#: Template/Home/info.ctp:48
+msgid "Type:"
+msgstr ""
+
+#: Template/Home/info.ctp:53
+#: Template/Home/orders.ctp:5
+msgid "Order history"
+msgstr ""
+
+#: Template/Home/login.ctp:3
+msgid "Login/Signup"
+msgstr ""
+
+#: Template/Home/login.ctp:6;21
+msgid "Login"
+msgstr ""
+
+#: Template/Home/login.ctp:16;42
+msgid "Your Password:"
+msgstr ""
+
+#: Template/Home/login.ctp:27
+msgid "Signup"
+msgstr ""
+
+#: Template/Home/login.ctp:47
+msgid "Your Birthday:"
+msgstr ""
+
+#: Template/Home/login.ctp:51
+msgid "Your Phone-number:"
+msgstr ""
+
+#: Template/Home/login.ctp:56
+msgid "Your Address:"
+msgstr ""
+
+#: Template/Home/login.ctp:62
+msgid "Sign-up"
+msgstr ""
+
+#: Template/Home/news.ctp:5
+msgid "News"
+msgstr ""
+
+#: Template/Home/news.ctp:32
+msgid "... Detail"
+msgstr ""
+
+#: Template/Home/orders.ctp:20
+msgid "ID"
+msgstr ""
+
+#: Template/Home/orders.ctp:26
+msgid "Time"
+msgstr ""
+
+#: Template/Home/orders.ctp:29
+msgid "Status"
+msgstr ""
+
+#: Template/Home/orders.ctp:32
+msgid "Action"
+msgstr ""
+
+#: Template/Home/orders.ctp:59
+msgid "Unconfimred"
+msgstr ""
+
+#: Template/Home/orders.ctp:61
+msgid "Delivering"
+msgstr ""
+
+#: Template/Home/orders.ctp:63
+msgid "Finish"
+msgstr ""
+
+#: Template/Home/orders.ctp:65
+msgid "Cancell"
+msgstr ""
+
+#: Template/Home/orders.ctp:71
+msgid "Detail"
+msgstr ""
+
+#: Template/Home/useredit.ctp:5
+msgid "Edit Account information"
+msgstr ""
+

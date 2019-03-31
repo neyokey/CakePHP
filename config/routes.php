@@ -6,16 +6,16 @@
  * Routes are very important mechanism that allows you to freely connect
  * different URLs to chosen controllers and their actions (functions).
  *
- * CakePHP(tm) : Rapid Development Framework (http://cakephp.org)
- * Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
+ * CakePHP(tm) : Rapid Development Framework (https://cakephp.org)
+ * Copyright (c) Cake Software Foundation, Inc. (https://cakefoundation.org)
  *
  * Licensed under The MIT License
  * For full copyright and license information, please see the LICENSE.txt
  * Redistributions of files must retain the above copyright notice.
  *
- * @copyright     Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
- * @link          http://cakephp.org CakePHP(tm) Project
- * @license       http://www.opensource.org/licenses/mit-license.php MIT License
+ * @copyright     Copyright (c) Cake Software Foundation, Inc. (https://cakefoundation.org)
+ * @link          https://cakephp.org CakePHP(tm) Project
+ * @license       https://opensource.org/licenses/mit-license.php MIT License
  */
 
 use Cake\Core\Plugin;
@@ -40,6 +40,9 @@ use Cake\Routing\Route\DashedRoute;
  * inconsistently cased URLs when used with `:plugin`, `:controller` and
  * `:action` markers.
  *
+ * Cache: Routes are cached to improve performance, check the RoutingMiddleware
+ * constructor in your `src/Application.php` file to change this behavior.
+ *
  */
 Router::defaultRouteClass(DashedRoute::class);
 
@@ -49,12 +52,13 @@ Router::scope('/', function (RouteBuilder $routes) {
      * its action called 'display', and we pass a param to select the view file
      * to use (in this case, src/Template/Pages/home.ctp)...
      */
+    $routes->connect('/', ['controller' => 'home', 'action' => 'index', 'home']);
 
     /**
      * ...and connect the rest of 'Pages' controller's URLs.
      */
+    $routes->connect('/pages/*', ['controller' => 'Pages', 'action' => 'display']);
 
-	$routes->connect('/', ['controller' => 'pages', 'action' => 'index']);
     /**
      * Connect catchall routes for all controllers.
      *
@@ -71,20 +75,11 @@ Router::scope('/', function (RouteBuilder $routes) {
      * You can remove these routes once you've connected the
      * routes you want in your application.
      */
-    
-
-	
-	$routes->fallbacks(DashedRoute::class);
+    $routes->fallbacks(DashedRoute::class);
 });
 
-Router::prefix('Admin', function ($routes) {
-		$routes->connect('/', ['controller' => 'Admin', 'action' => 'index']);
-		$routes->connect('/flot', ['controller' => 'Admin', 'action' => 'flot']);
-
-	});
-
 /**
- * Load all plugin routes.  See the Plugin documentation on
+ * Load all plugin routes. See the Plugin documentation on
  * how to customize the loading of plugin routes.
  */
 Plugin::routes();

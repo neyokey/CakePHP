@@ -1,0 +1,108 @@
+body.textarea_editor .span10 .wysihtml5-editor img{
+    width: 50px;
+}
+div.radio {
+    width: inherit !important;
+    height: 18px;
+}
+
+.form-horizontal .control-label {
+    padding-top: 10px;
+    width: 180px;
+}
+
+.form-horizontal .des {
+    padding-right: 20px;
+}
+
+div.message {
+    text-align: center;
+    cursor: pointer;
+    display: block;
+    font-weight: normal;
+    padding: 0 1.5rem 0 1.5rem;
+    transition: height 300ms ease-out 0s;
+    background-color: #a0d3e8;
+    color: #626262;
+    top: 15px;
+    right: 15px;
+    z-index: 999;
+    overflow: hidden;
+    height: 40px;
+    line-height: 2.5em;
+    box-radius: 5px;
+}
+
+div.message:before {
+    line-height: 7px;
+    font-size: 20px;
+    height: 7px;
+    width: 7px;
+    border-radius: 15px;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    position: relative;
+    left: -10px;
+    background-color: #FFF;
+    padding: 12px 12px 12px 12px;
+    content: "i";
+    color: #a0d3e8;
+}
+
+div.message.error {
+    background-color: #C3232D;
+    color: #FFF;
+}
+
+div.message.error:before {
+    padding: 11px 16px 14px 7px;
+    color: #C3232D;
+    content: "x";
+}
+div.message.hidden {
+    height: 0;
+}
+
+.col-md-6 {
+    width: 50%;
+    padding-left: 20px;
+}
+.box {
+    position: relative;
+    border-radius: 3px;
+    background: #ffffff;
+    border-top: 3px solid #d2d6de;
+    margin-bottom: 20px;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+.box-body {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding: 10px 10px 10px 10px;
+    margin-left: 15px;
+}
+.form-group {
+    margin-bottom: 30px;
+    margin-left: -15px;
+}
+.input-group {
+    position: relative;
+    display: inline;
+    border-collapse: separate;
+}
+.input-group .input-group-addon {
+    border-radius: 0;
+    border-color: #d2d6de;
+    background-color: #fff;
+}
+.input-group .form-control {
+    position: relative;
+    z-index: 3;
+    float: left;
+    width: 80%;
+    margin-bottom: 0;
+}

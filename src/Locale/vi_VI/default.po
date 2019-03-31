@@ -1,0 +1,501 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-07-04 16:45+0000\n"
+"PO-Revision-Date: 2018-07-31 01:24+0700\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.8\n"
+"Last-Translator: \n"
+"Language: vi\n"
+
+#: Template/Home/index.ctp:5
+msgid "Read more"
+msgstr "Đọc thêm"
+
+#: Template/Home/index.ctp:5
+msgid "Orders must be over 100,000 VND"
+msgstr "Đơn hàng phải trên 100.000 VND"
+
+#: Template/Home/index.ctp:5
+msgid "Can only order from 12am to 8pm"
+msgstr "Chỉ có thể đặt hàng từ 12 giờ sáng đến 8 giờ tối"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Best selling"
+msgstr "Món ăn được ưa chuộng"
+
+#: Template/Element/kind_news.ctp:1
+msgid "New Combo"
+msgstr "Combo mới"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Orders not exist"
+msgstr "Đơn đặt hàng không tồn tại"
+
+#: Template/Element/kind_news.ctp:1
+msgid "User is not activated"
+msgstr "Người dùng không được kích hoạt"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Page not found"
+msgstr "Không tìm thấy trang"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Error"
+msgstr "Lỗi"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Successful logout"
+msgstr "Đăng xuất thành công"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Successful send message"
+msgstr "Gửi thông điệp thành công"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Unsuccessful send message"
+msgstr "Gửi thông điệp không thành công"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Successful change password"
+msgstr "Đổi mật khẩu thành công"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Unsuccessful change password"
+msgstr "Đổi mật khẩu không thành công"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Successful change infomation"
+msgstr "Đổi thông tin thành công"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Unsuccessful change infomation"
+msgstr "Đổi thông tin không thành công"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Successful signup"
+msgstr "Đăng kí thành công"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Unsuccessful signup"
+msgstr "Đăng kí không thành công"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Successful login"
+msgstr "Đăng nhập thành công"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Unsuccessful login"
+msgstr "Đăng nhập không thành công"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Note"
+msgstr "Ghi chú"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Recipient name"
+msgstr "Tên người nhận"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Delivery area"
+msgstr "Khu vực giao hàng"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Confirm information"
+msgstr "Xác nhận thông tin"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Delete all"
+msgstr "Xóa tất cả"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Old password:"
+msgstr "Mật khẩu cũ:"
+
+#: Template/Element/kind_news.ctp:1
+msgid "New password:"
+msgstr "Mật khẩu mới:"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Repeat password:"
+msgstr "Nhập lại mật khẩu:"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Change"
+msgstr "Đổi"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Change password"
+msgstr "Đổi mật khẩu"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Edit account information"
+msgstr "Cập nhật thông tin tài khoản"
+
+#: Template/Element/kind_news.ctp:1
+msgid "first"
+msgstr "đầu"
+
+#: Template/Element/kind_news.ctp:1
+msgid "last"
+msgstr "cuối"
+
+#: Template/Element/kind_news.ctp:1
+msgid "next"
+msgstr "sau"
+
+#: Template/Element/kind_news.ctp:1
+msgid "previous"
+msgstr "trước"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Contact us now"
+msgstr "Liên hệ với chúng tôi ngay"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Make a Reservation"
+msgstr "Muốn đặt bàn trước"
+
+#: Template/Element/kind_news.ctp:1
+msgid " orders"
+msgstr " đơn hàng"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Home"
+msgstr "Trang chủ"
+
+#: Template/Element/kind_news.ctp:1
+msgid "drinks"
+msgstr "món tráng miệng"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Drinks"
+msgstr "Món tráng miệng"
+
+#: Template/Element/kind_news.ctp:1
+msgid "appetizer"
+msgstr "món khai vị"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Appetizer"
+msgstr "Món khai vị"
+
+#: Template/Element/kind_news.ctp:1
+msgid "main"
+msgstr "món chính"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Main"
+msgstr "Món chính"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Cart"
+msgstr "Giỏ hàng"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Manage"
+msgstr "Quản lí"
+
+#: Template/Element/kind_news.ctp:1
+msgid "Contact"
+msgstr "Liên hệ"
+
+#: Template/Element/kind_news.ctp:1
+msgid "About"
+msgstr "Giới thiệu"
+
+#: Template/Element/kind_news.ctp:1
+msgid "-Kind"
+msgstr "-Thể loại"
+
+#: Template/Element/monan.ctp:39
+msgid "Price:"
+msgstr "Giá:"
+
+#: Template/Element/monan.ctp:40
+msgid "Add cart"
+msgstr "Thêm Vào Giỏ Hàng"
+
+#: Template/Home/about.ctp:5
+msgid "A Few Words"
+msgstr "Lời mở đầu"
+
+#: Template/Home/bill.ctp:5
+msgid "Bill"
+msgstr "Hóa đơn"
+
+#: Template/Home/bill.ctp:18 Template/Home/detail.ctp:18
+msgid "Receiver"
+msgstr "Người nhận"
+
+#: Template/Home/bill.ctp:21;58 Template/Home/detail.ctp:21;58
+msgid "Name"
+msgstr "Tên"
+
+#: Template/Home/bill.ctp:24 Template/Home/detail.ctp:24
+msgid "Phone"
+msgstr "Số điện thoại"
+
+#: Template/Home/bill.ctp:27 Template/Home/detail.ctp:27
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: Template/Home/bill.ctp:55 Template/Home/detail.ctp:55
+msgid "Dish"
+msgstr "Món ăn"
+
+#: Template/Home/bill.ctp:61 Template/Home/detail.ctp:61
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: Template/Home/bill.ctp:64;105 Template/Home/detail.ctp:64;105
+#: Template/Home/orders.ctp:23
+msgid "Price"
+msgstr "Giá"
+
+#: Template/Home/bill.ctp:102 Template/Home/detail.ctp:102
+#: Template/Home/orders.ctp:84
+msgid "Sum"
+msgstr "Tổng"
+
+#: Template/Home/bill.ctp:108 Template/Home/detail.ctp:108
+msgid "Ship price"
+msgstr "Phí giao hàng"
+
+#: Template/Home/bill.ctp:111 Template/Home/detail.ctp:111
+msgid "Discount"
+msgstr "Giảm giá"
+
+#: Template/Home/bill.ctp:114 Template/Home/detail.ctp:114
+msgid "Pay price"
+msgstr "Tiền trả"
+
+#: Template/Home/bill.ctp:141
+msgid "You have no order"
+msgstr "Bạn không có đơn hàng"
+
+#: Template/Home/bill.ctp:145 Template/Home/detail.ctp:145
+#: Template/Home/news.ctp:48
+msgid " Back"
+msgstr " Quay lại"
+
+#: Template/Home/cart.ctp:5
+msgid "Giỏ hàng"
+msgstr ""
+
+#: Template/Home/cart.ctp:52 Template/Home/info.ctp:34
+#: Template/Home/useredit.ctp:33
+msgid "Edit"
+msgstr "Cập nhật"
+
+#: Template/Home/cart.ctp:59
+msgid "Delete"
+msgstr "Xóa"
+
+#: Template/Home/cart.ctp:117
+msgid "Order"
+msgstr "Đặt hàng"
+
+#: Template/Home/contact.ctp:3
+msgid "Our Contacts"
+msgstr "Thông tin liên hệ"
+
+#: Template/Home/contact.ctp:14
+msgid "Contacts Form"
+msgstr "Form liên hệ"
+
+#: Template/Home/contact.ctp:19 Template/Home/login.ctp:32
+msgid "Your Name:"
+msgstr "Tên của bạn:"
+
+#: Template/Home/contact.ctp:23 Template/Home/login.ctp:11;37
+msgid "Your E-mail:"
+msgstr "Email của bạn:"
+
+#: Template/Home/contact.ctp:29
+msgid "Subject:"
+msgstr "Chủ đề:"
+
+#: Template/Home/contact.ctp:33
+msgid "Message:"
+msgstr "Thông điệp:"
+
+#: Template/Home/contact.ctp:40
+msgid "Send"
+msgstr "Gửi"
+
+#: Template/Home/contact.ctp:46
+msgid "Contacts Information"
+msgstr "Thông tin liên hệ"
+
+#: Template/Home/contact.ctp:49 Template/Home/info.ctp:29
+#: Template/Home/useredit.ctp:29
+msgid "Address:"
+msgstr "Địa chỉ:"
+
+#: Template/Home/contact.ctp:50
+msgid "Telphone:"
+msgstr "Số điện thoại:"
+
+#: Template/Home/contact.ctp:51
+msgid "E-mail:"
+msgstr "Email:"
+
+#: Template/Home/detail.ctp:5
+msgid "Detail order"
+msgstr "Chi tiết đơn hàng"
+
+#: Template/Home/detail_news.ctp:13 Template/Home/news.ctp:13
+msgid "Post date: "
+msgstr "Ngày đăng: "
+
+#: Template/Home/detail_news.ctp:13 Template/Home/news.ctp:13
+msgid "| By: "
+msgstr "| Bởi: "
+
+#: Template/Home/detail_news.ctp:13 Template/Home/news.ctp:13
+msgid "<br> Type: "
+msgstr "<br> Loại: "
+
+#: Template/Home/detail_news.ctp:42
+msgid "News not exist!"
+msgstr "Bản tin không tồn tại!"
+
+#: Template/Home/detail_news.ctp:51 Template/Home/orders.ctp:107
+msgid "Back"
+msgstr "Quay lại"
+
+#: Template/Home/info.ctp:5
+msgid "Account information"
+msgstr "Thông tin tài khoản"
+
+#: Template/Home/info.ctp:8 Template/Home/useredit.ctp:8
+msgid "Your infomation"
+msgstr "Thông tin của bạn"
+
+#: Template/Home/info.ctp:13 Template/Home/useredit.ctp:13
+msgid "Name:"
+msgstr "Tên:"
+
+#: Template/Home/info.ctp:17 Template/Home/useredit.ctp:17
+msgid "Email:"
+msgstr "Email:"
+
+#: Template/Home/info.ctp:21 Template/Home/useredit.ctp:21
+msgid "Phone:"
+msgstr "Số điện thoại:"
+
+#: Template/Home/info.ctp:25 Template/Home/useredit.ctp:25
+msgid "Birthday:"
+msgstr "Ngày sinh:"
+
+#: Template/Home/info.ctp:39
+msgid "Account infomation"
+msgstr "Thông tin tài khoản"
+
+#: Template/Home/info.ctp:44
+msgid "Point:"
+msgstr "Điểm:"
+
+#: Template/Home/info.ctp:48
+msgid "Type:"
+msgstr "Loại:"
+
+#: Template/Home/info.ctp:53 Template/Home/orders.ctp:5
+msgid "Order history"
+msgstr "Lịch sử đặt hàng"
+
+#: Template/Home/login.ctp:3
+msgid "Login/Signup"
+msgstr "Đăng nhập/ Đăng kí"
+
+#: Template/Home/login.ctp:6;21
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: Template/Home/login.ctp:16;42
+msgid "Your Password:"
+msgstr "Mật khẩu:"
+
+#: Template/Home/login.ctp:27
+msgid "Signup"
+msgstr "Đăng kí"
+
+#: Template/Home/login.ctp:47
+msgid "Your Birthday:"
+msgstr "Ngày sinh:"
+
+#: Template/Home/login.ctp:51
+msgid "Your Phone-number:"
+msgstr "Số điện thoại:"
+
+#: Template/Home/login.ctp:56
+msgid "Your Address:"
+msgstr "Địa chỉ:"
+
+#: Template/Home/login.ctp:62
+msgid "Sign-up"
+msgstr "Đăng kí"
+
+#: Template/Home/index.ctp:5
+msgid "News "
+msgstr "Tin mới "
+
+#: Template/Home/news.ctp:5
+msgid "News"
+msgstr "Bản tin"
+
+#: Template/Home/news.ctp:32
+msgid "... Detail"
+msgstr "... Chi tiết"
+
+#: Template/Home/orders.ctp:20
+msgid "ID"
+msgstr "ID"
+
+#: Template/Home/orders.ctp:26
+msgid "Time"
+msgstr "Thời gian"
+
+#: Template/Home/orders.ctp:29
+msgid "Status"
+msgstr "Trạng thái"
+
+#: Template/Home/orders.ctp:32
+msgid "Action"
+msgstr "Hành động"
+
+#: Template/Home/orders.ctp:59
+msgid "Unconfimred"
+msgstr "Chưa xác nhận"
+
+#: Template/Home/orders.ctp:61
+msgid "Delivering"
+msgstr "Đang giao"
+
+#: Template/Home/orders.ctp:63
+msgid "Finish"
+msgstr "Hoàn thành"
+
+#: Template/Home/orders.ctp:65
+msgid "Cancell"
+msgstr "Đã hủy"
+
+#: Template/Home/orders.ctp:71
+msgid "Detail"
+msgstr "Chi tiết"
+
+#: Template/Home/useredit.ctp:5
+msgid "Edit Account information"
+msgstr "Cập nhật tài khoản"
