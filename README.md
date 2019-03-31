@@ -6,3 +6,15 @@ configuration relevant for your application.
 ## Database file
 
 lvtn_pizza.sql
+
+## Model
+
+src/model
+
+## Template
+
+src/template
+
+## Controller
+
+src/controller
